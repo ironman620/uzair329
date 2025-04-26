@@ -1,9 +1,9 @@
-# uzair329
+# uzair22
 echo "# Hello world">> iron.md
-print init 
-print add ironman.md
-print commit -m "second commant"
-print branch -M main 
-print remote add origin https://github.com/ironman620/iron.git
-print push -u origin 
+git init 
+git add ironman.md
+git commit -m "second commant"
+git branch -M main 
+git remote add origin https://github.com/githuhub/iron.git
+git push -u origin 
 
