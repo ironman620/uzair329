@@ -2,7 +2,7 @@
 echo "# hello world" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "second commant"
 git branch -M main
-git remote add origin https://github.com/ironman620/ironman23.git
+git remote add origin https://github.com/ironman620/iron.git
 git push -u origin main
