@@ -1,5 +1,5 @@
 # uzair22
-echo "# Hello world">> iron.md
+echo "# Hello world">> iron.m
 git init 
 git add ironman.md
 git commit -m "second commant"
